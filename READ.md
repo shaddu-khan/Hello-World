@@ -1,8 +1,5 @@
-body {
-background-color: lightblue;
-}
+# hello-world
+Hello World repository for Git tutorial
+This is an example repository for the my project
 
-h1 {
-color: navy;
-margin-left: 20px;
-}
+This repository is built step by step in the my project
